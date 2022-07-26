@@ -1,3 +1,3 @@
 # ArtillerySystem
 
-2 day started 17:10 Paused in 18:55
+2 day started 17:10 Paused in 18:55 Resumed 21:01
