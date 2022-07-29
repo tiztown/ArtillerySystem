@@ -8,4 +8,4 @@
 
 Summary = 12 h 17 m
 
-4 day started 13:18
+4 day started 13:18 paused 15:17
