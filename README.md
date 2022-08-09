@@ -16,4 +16,4 @@ Summary = 12 h 17 m
 
 Summary = 22 h 47 m
 
-7 day started 15:30
+7 day started 15:30 paused 16:55
