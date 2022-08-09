@@ -13,3 +13,7 @@ Summary = 12 h 17 m
 5 day started 12:21 paused 14:08 resumed 15:16 paused 16:10 resumed 16:49 ended 18:07
 
 6 day started 11:30 stoped 12:50
+
+Summary = 22 h 47 m
+
+7 day started 15:30
